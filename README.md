@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on my [`startup`](https://codesthaan.com/).
 
-- 👯 I’m looking to collaborate on building communities.
+- 👯 I’m looking to collaborate to build communities.
 
-- 🤔 I’m looking for help with in form of contributions to the [`startup`](https://codesthaan.com/).
+- 🤔 I’m looking for help with in form of contributions to my [`startup`](https://codesthaan.com/).
 
 - 👨‍💻 All of my projects are available at [`mustafizkaifee.com`](https://mustafizkaifee.herokuapp.com/).
 
