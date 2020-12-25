@@ -25,9 +25,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   
 </p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafiz04&layout=compact&hide=html" alt="Mustafiz04" />
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafiz04&layout=compact&hide=html" alt="Mustafiz04" />
 </p>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mustafiz04&show_icons=true" alt="mustafiz04" /> </p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mustafiz04&show_icons=true" alt="mustafiz04" /> </p>
 
 
 ## Connect with me  
