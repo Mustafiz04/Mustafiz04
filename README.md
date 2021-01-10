@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mustafiz Kaifee</h1>
+<h1 align="center">Hi 👋, I'm Mustafiz Kaifee Mumtaz</h1>
 <h3 align="center">A passionate developer and entrepreneur from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafiz04" alt="mustafiz04" /> </p>
 
