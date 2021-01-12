@@ -6,7 +6,7 @@
 <h3 align="center">A passionate developer and entrepreneur from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafiz04" alt="mustafiz04" /> </p>
 
-- 🔭 I’m currently working on my [`startup`](https://codesthaan.com/).
+- 🔭 I’m currently working on my [`Startup`](https://codesthaan.com/).
 - 👯 I’m looking to collaborate to build communities.
 - 🤔 I’m looking for help with in form of contributions to my [`startup`](https://codesthaan.com/).
 - 👨‍💻 All of my projects are available at [`mustafizkaifee.com`](https://mustafizkaifee.herokuapp.com/).
