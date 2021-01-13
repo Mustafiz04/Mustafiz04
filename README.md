@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my [`Startup`](https://codesthaan.com/).
 - 👯 I’m looking to collaborate to build communities.
-- 🤔 I’m looking for help with in form of contributions to my [`startup`](https://codesthaan.com/).
+- 🤔 I’m looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/).
 - 👨‍💻 All of my projects are available at [`mustafizkaifee.com`](https://mustafizkaifee.herokuapp.com/).
 - 📝 I regulary write articles on [`blog`](https://codesthaan.com/blog/).
 - 💬 Ask me about **Web Development, Machine Learning and competitive coding.**
