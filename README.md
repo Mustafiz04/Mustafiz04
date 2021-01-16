@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mustafiz Kaifee</h1>
-<h3 align="center">A passionate developer and Entrepreneur from India</h3>
+<h3 align="center">A passionate software developer and Entrepreneur from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafiz04" alt="mustafiz04" /> </p>
 
 - 🔭 I’m currently working on my [`Startup`](https://codesthaan.com/).
