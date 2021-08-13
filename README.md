@@ -3,31 +3,28 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mustafiz Kaifee Mumtaz</h1>
-<h3 align="center">A passionate software developer and Entrepreneur from India</h3>
+<h3 align="center">A passionate Software Developer from India </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafiz04" alt="mustafiz04" /> </p>
+<!-- - 🤔 I’m looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
+<!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
-- 🔭 I’m currently working on my [`Startup`](https://codesthaan.com/).
+- 🔭 I’m currently working at [`Axis Bank Freecharge`](https://www.freecharge.in/).
 - 👯 I’m looking to collaborate to build communities.
-- 🤔 I’m looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/).
 - 👨‍All of my projects are available at [`mustafizkaifee.com`](https://mustafizkaifee.herokuapp.com/) 💻 .
-- 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/).
-- 💬 Ask me about **Web Development, Machine Learning and competitive coding.**
-- 📫 How to reach me kaifee000@gmail.com, [@codesthaan](https://www.instagram.com/codesthaan/), mustafizkaifee@codesthaan.com.
+- 💬 Ask me about **Web Development specially Backend and competitive coding.**
+- 📫 How to reach me kaifee000@gmail.com, [@codesthaan](https://www.instagram.com/codesthaan/).
 - ⚡ Fun fact **I love cats.**
 
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  
-</p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafiz04&layout=compact&hide=html" alt="Mustafiz04" />
-</p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mustafiz04&show_icons=true" alt="mustafiz04" /> </p>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mustafiz04&show_icons=true" alt="mustafiz04" /> </p>
 
 
 ## Connect with me  
