@@ -2,14 +2,14 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mustafiz Kaifee Mumtaz</h1>
+<h1 align="center">Hi 👋, I'm Mustafiz Kaifee</h1>
 <h3 align="center">A passionate Software Developer from India </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafiz04" alt="mustafiz04" /> </p>
 <!-- - 🤔 I’m looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
 - 🔭 I’m currently working at [`Axis Bank Freecharge`](https://www.freecharge.in/).
-- 👯 Currently working on web scapper project with [`@nadachra`](https://github.com/nadachra)
+- 👯‍♂️ Currently working on web scapper project with [`@nadachra`](https://github.com/nadachra)
 - 👨‍All of my projects are available at [`mustafizkaifee.com`](https://mustafiz04.github.io/) 💻 .
 - 💬 Ask me about **Web Development specially Backend and competitive coding.**
 - 📫 How to reach me kaifee000@gmail.com.
