@@ -9,10 +9,10 @@
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
 - 🔭 I’m currently working at [`Axis Bank Freecharge`](https://www.freecharge.in/).
-- 👯 I’m looking to collaborate to build communities.
-- 👨‍All of my projects are available at [`mustafizkaifee.com`](https://mustafizkaifee.herokuapp.com/) 💻 .
+- 👯 Currently working on web scapper project with [`@nadachra`](https://github.com/nadachra)
+- 👨‍All of my projects are available at [`mustafizkaifee.com`](https://mustafiz04.github.io/) 💻 .
 - 💬 Ask me about **Web Development specially Backend and competitive coding.**
-- 📫 How to reach me kaifee000@gmail.com, [@codesthaan](https://www.instagram.com/codesthaan/).
+- 📫 How to reach me kaifee000@gmail.com.
 - ⚡ Fun fact **I love cats.**
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
