@@ -9,7 +9,7 @@
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
 - 🔭 I’m currently working at [`Axis Bank Freecharge`](https://www.freecharge.in/).
-- 👯‍♂️ Currently working on web scapper project with [`@nadachra`](https://github.com/nadachra)
+- 👯‍♂️ Currently working on client and web scapper project with [`@nadachra`](https://github.com/nadachra)
 - 👨‍All of my projects are available at [`mustafizkaifee.com`](https://mustafiz04.github.io/) 💻 .
 - 💬 Ask me about **Web Development specially Backend and competitive coding.**
 - 📫 How to reach me kaifee000@gmail.com.
