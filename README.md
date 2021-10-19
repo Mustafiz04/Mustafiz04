@@ -8,9 +8,9 @@
 <!-- - 🤔 I’m looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
-- 🔭 I’m currently working at [`Axis Bank Freecharge`](https://www.freecharge.in/).
-- 👯‍♂️ Currently working on client and web scapper project with [`@nadachra`](https://github.com/nadachra)
-- 👨‍All of my projects are available at [`mustafizkaifee.com`](https://mustafiz04.github.io/) 💻 .
+- 🔭 I'm currently employed at [`Axis Bank Freecharge`](https://www.freecharge.in/).
+- 👯‍♂️ I'm working on client and web scapper project with [`@nadachra`](https://github.com/nadachra)
+- 👨‍ All of my projects are available at [`mustafizkaifee.com`](https://mustafiz04.github.io/) 💻 .
 - 💬 Ask me about **Web Development specially Backend and competitive coding.**
 - 📫 How to reach me kaifee000@gmail.com.
 - ⚡ Fun fact **I love cats.**
