@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
-<h3 align="left">Connect with me</h3>
+## Connect with me
 <div>
   <a href="https://github.com/Mustafiz04" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
