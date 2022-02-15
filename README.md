@@ -62,8 +62,8 @@
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Mustafiz04" alt="Mustafiz04" width="48%"/>
 </p>
 <p align ="center">
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafiz04&theme=default" width="48%" alt="Mustafiz04"/>
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustafiz04&theme=default" width="48%" alt="Mustafiz04"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafiz04&theme=default" alt="Mustafiz04"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustafiz04&theme=default" alt="Mustafiz04"/>
 </p>
 
 
