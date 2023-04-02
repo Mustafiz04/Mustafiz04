@@ -17,6 +17,9 @@
 - 📫 How to reach me kaifee000@gmail.com.
 - ⚡ Fun fact **I love cats.**
 
+<a id="raw-url" href="https://chrome.google.com/webstore/detail/codesyncer/cckfbmeiclkanjojbhblebmdlkibjnkl?hl=en">Download CodeSyncer Chrome Extension</a>
+
+
 ## Things I code with
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
