@@ -21,7 +21,7 @@
 
 
 ## Things I code with
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -40,6 +40,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</p> -->
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,java,nestjs,python,mysql,html,css,mongodb,jenkins,aws,heroku,git,docker,postman" />
+  </a>
 </p>
 
 ## Connect with me
