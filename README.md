@@ -12,9 +12,9 @@
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
 - 🔭 I'm currently employed at [`Medibuddy`](https://www.medibuddy.in/).
-- 👨‍ All of my projects are available at [`mustafizkaifee.com`](https://mustafiz04.github.io/) 💻 .
+- 👨‍ All of my projects are available at [`mustafizkaifee.in`](https://www.mustafizkaifee.in/) 💻 .
 - 💬 Ask me about **Web Development specially Backend and competitive coding.**
-- 📫 How to reach me kaifee000@gmail.com.
+- 📫 How to reach me mustafizkaifee04@gmail.com.
 - ⚡ Fun fact **I love cats.**
 
 <a id="raw-url" href="https://chrome.google.com/webstore/detail/codesyncer/cckfbmeiclkanjojbhblebmdlkibjnkl?hl=en">Download CodeSyncer Chrome Extension</a>
