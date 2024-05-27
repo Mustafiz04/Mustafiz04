@@ -11,7 +11,7 @@
 <!-- - 🤔 I’m looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
-- 🔭 I'm currently employed at [`Medibuddy`](https://www.medibuddy.in/).
+- 🔭 I'm currently employed at [`BitGo`](https://www.bitgo.com/).
 - 👨‍ All of my projects are available at [`mustafizkaifee.in`](https://www.mustafizkaifee.in/) 💻 .
 - 💬 Ask me about **Web Development specially Backend and competitive coding.**
 - 📫 How to reach me mustafizkaifee04@gmail.com.
