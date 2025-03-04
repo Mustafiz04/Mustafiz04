@@ -66,7 +66,7 @@
 <br>
 <p align ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustafiz04&show_icons=true&locale=en" alt="mustafiz04" alt="Mustafiz04" width="48%" /> 
-   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Mustafiz04" alt="Mustafiz04" width="48%"/>
+   <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Mustafiz04&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 <p align ="center">
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafiz04&theme=default" alt="Mustafiz04"/>
