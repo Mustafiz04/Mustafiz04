@@ -2,18 +2,18 @@
   <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div> -->
 
-# Hi, I'm Mustafiz Kaifee, Software Developer from India 🇮🇳
+# Hi, I'm Mustafiz Kaifee, a Software Developer from India 🇮🇳
 <!-- <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/mustafiz04/count.svg" />
 </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafiz04" alt="mustafiz04" /> </p>
-<!-- - 🤔 I’m looking for help with in form of contributions to my [`Startup`](https://codesthaan.com/). -->
+<!-- - 🤔 I’m looking for help in the form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
 - 🔭 I'm currently employed at [`BitGo`](https://www.bitgo.com/).
-- 👨‍ All of my projects are available at [`mustafizkaifee.in`](https://www.mustafizkaifee.in/) 💻 .
-- 💬 Ask me about **Web Development specially Backend and competitive coding.**
+- 👨‍ All my projects are available at [`mustafizkaifee.in`](https://www.mustafizkaifee.in/) 💻 .
+- 💬 Ask me about **Web Development especially Backend and competitive coding.**
 - 📫 How to reach me mustafizkaifee04@gmail.com.
 - ⚡ Fun fact **I love cats.**
 
