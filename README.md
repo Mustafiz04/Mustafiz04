@@ -11,10 +11,10 @@
 <!-- - 🤔 I’m looking for help in the form of contributions to my [`Startup`](https://codesthaan.com/). -->
 <!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
 
-- 🔭 I'm currently employed at [`BitGo`](https://www.bitgo.com/).
-- 👨‍ All my projects are available at [`mustafizkaifee.in`](https://www.mustafizkaifee.in/) 💻 .
-- 💬 Ask me about **Web Development especially Backend and competitive coding.**
-- 📫 How to reach me mustafizkaifee04@gmail.com.
+- 🔭 I'm currently employed at [**BitGo**](https://www.bitgo.com/).
+- 👨‍ All my projects are available at [**mustafizkaifee.in**](https://www.mustafizkaifee.in/) 💻 .
+- 💬 Ask me about **Web Development, especially Backend, and competitive coding.**
+- 📫 How to reach me **mustafizkaifee04@gmail.com**.
 - ⚡ Fun fact **I love cats.**
 
 <a id="raw-url" href="https://chrome.google.com/webstore/detail/codesyncer/cckfbmeiclkanjojbhblebmdlkibjnkl?hl=en">Download CodeSyncer Chrome Extension</a>
