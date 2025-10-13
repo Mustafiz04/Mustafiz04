@@ -1,79 +1,80 @@
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div> -->
+# Mustafiz Kaifee
 
-# Hi, I'm Mustafiz Kaifee, a Software Developer from India 🇮🇳
-<!-- <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/mustafiz04/count.svg" />
-</p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafiz04" alt="mustafiz04" /> </p>
-<!-- - 🤔 I’m looking for help in the form of contributions to my [`Startup`](https://codesthaan.com/). -->
-<!-- - 📝 I regulary write articles on [`codesthaan`](https://codesthaan.com/blog/). -->
+**Welcome to the digital showcase of Mustafiz Kaifee, Senior Software Engineer, cat lover, and builder of impactful web products.**
 
-- 🔭 I'm currently working as a Senior Software Engineer at [**PhonePe**](https://www.phonepe.com/).
-- 👨‍ All my projects are available at [**mustafizkaifee.in**](https://www.mustafizkaifee.in/) 💻 .
-- 💬 Ask me about **Web Development, especially Backend, and competitive coding.**
-- 📫 How to reach me **mustafizkaifee04@gmail.com**.
-- ⚡ Fun fact **I love cats.**
+---
 
-<a id="raw-url" href="https://chrome.google.com/webstore/detail/codesyncer/cckfbmeiclkanjojbhblebmdlkibjnkl?hl=en">Download CodeSyncer Chrome Extension</a>
+## 🚀 About Me
 
+**Hi, I'm Mustafiz Kaifee** — a passionate Software Developer from India 🇮🇳, currently crafting scalable systems at [PhonePe](https://www.phonepe.com/). My journey weaves through backend engineering, competitive programming, and shipping products that delight users and optimize processes. Whether you're a founder, fellow developer, or just curious, you'll find my projects and insights here.
 
-## Things I code with
-<!-- <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-</p> -->
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,java,nestjs,python,mysql,html,css,mongodb,jenkins,aws,heroku,git,docker,postman" />
-  </a>
+**Specialties:**
+- Advanced web development (Node.js, JavaScript, Express.js, Python, Java, NestJS)
+- Scalable backend & architecture design (MySQL, MongoDB, Docker, AWS)
+- Code quality, CI/CD, and developer productivity (Jenkins, Git, Postman)
+- MVP prototyping, sports booking platforms, and utility tools
+- Competitive coding and mentoring
+
+**Fun Fact:** I love cats and believe in work-life balance by chasing new travel destinations and solving algorithms for fun.
+
+---
+
+## 🌐 Explore My Work
+
+- **Portfolio:** [mustafizkaifee.in](https://www.mustafizkaifee.in/) — All my public projects, from sleek utility websites to scalable multi-user booking systems.  
+- **Developer Tools Hub:** [devtoolhub.mustafizkaifee.in](https://devtoolhub.mustafizkaifee.in/) — A collection of essential developer utilities and tools to streamline your workflow.  
+- **Technical Blog:** [mustafizkaifee.in/blog](https://www.mustafizkaifee.in/blog) — Deep dives into design patterns, system architecture, and software engineering best practices.
+
+---
+
+## 💡 Let's Connect, Collaborate & Create
+
+**Ask Me About:** Web backend, system design, competitive coding, career transitions, starting up in tech, or travel planning.
+
+- **Mail me:** mustafizkaifee04@gmail.com  
+- **GitHub:** [Mustafiz04](https://github.com/Mustafiz04)  
+- **LinkedIn:** [mustafizkaifee](https://www.linkedin.com/in/mustafizkaifee/)  
+- **Instagram:** [mustafizkaifee](https://instagram.com/mustafizkaifee)  
+
+---
+
+## 🛠️ Things I Code With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,java,nestjs,python,mysql,html,css,mongodb,jenkins,aws,heroku,git,docker,postman" />
 </p>
 
-## Connect with me
-<div>
-  <a href="https://github.com/Mustafiz04" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/mustafizkaifee/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/kaifee.mustafiz/" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/mustafizkaifee" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a> 
-</div> 
+---
 
-<br>
-<p align ="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafiz04&show_icons=true&locale=en" alt="mustafiz04" alt="Mustafiz04" width="48%" /> 
-   <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Mustafiz04&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafiz04&show_icons=true&locale=en" width="48%" />
+  <img src="https://git-hub-streak-stats.vercel.app?user=Mustafiz04&border_radius=5&date_format=j%20M%5B%20Y%5D" width="48%" />
 </p>
-<p align ="center">
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafiz04&theme=default" alt="Mustafiz04"/>
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustafiz04&theme=default" alt="Mustafiz04"/>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafiz04&theme=default" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustafiz04&theme=default" />
 </p>
 
+---
+
+## ☕ Support My Journey
+
+If you love what I do or want to fuel my open-source nights:
 
 <a href="https://www.buymeacoffee.com/mustafizkaifee" target="_blank">
-    <img height=50px src=https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black alt=buymecoffee style="margin-bottom: 5px;" />
+  <img height="40px" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
+
+---
+
+## 📝 Latest Articles
+
+Read practical guides, system design breakdowns, and competitive coding solutions on my [technical blog](https://www.mustafizkaifee.in/blog).
+
+---
+
+> "Build things with care. Teach others generously. Learn endlessly."
+
+**Thanks for visiting! Drop a star ⭐️ or message if you want to connect, collaborate, or just say hi!**
